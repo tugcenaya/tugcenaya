@@ -6,7 +6,7 @@
 </div>
    
 <br>
-<p align="center">
+<p align="left">
   Hi, I'm Tugce Ayan, I'm a Computer Engineer from Turkey
   <br>
   🎓 I graduated from Bursa Uludag University Computer Engineering Department
@@ -15,24 +15,25 @@
   <br>
   :seedling: I’m currently learning data science
   <br>
+  <br>
   :mailbox: How to reach me:  <a href="https://www.linkedin.com/in/tugceayan/"><img width="30" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"></a>
   <br>
   💻 Tech I work on :
 
-<p align="center">
+<p align="left">
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="45" height="45"/>
-      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="Nodejs" width="54" height="45"/>
-      <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="Nodejs" width="45" height="45"/>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Nodejs" width="45" height="45"/>
-      <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="Nodejs" width="45" height="45"/>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt="Nodejs" width="45" height="45"/>
-      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="45" height="45"/>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" alt="Nodejs" width="45" height="45"/>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" alt="Nodejs" width="45" height="45"/>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" alt="Nodejs" width="45" height="45"/>
-      <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Nodejs" width="45" height="45"/>
-      <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Nodejs" width="45" height="45"/>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" alt="Nodejs" width="45" height="45"/>
+      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="54" height="45"/>
+      <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="45" height="45"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
+      <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="45" height="45"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetcore" width="45" height="45"/>
+      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="45" height="45"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" alt="opencv" width="45" height="45"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="45" height="45"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" alt="phtoshop" width="45" height="45"/>
+      <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="45" height="45"/>
+      <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="45" height="45"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" alt="blender" width="45" height="45"/>
 
 </p>
 
